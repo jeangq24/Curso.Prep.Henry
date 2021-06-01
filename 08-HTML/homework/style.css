@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(20, 3, 3);
+}
+
+img {
+    width: 400px;
+    
+    
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(255, 174, 0);
+    padding: 50px;
+    border: 10px solid black;
+    margin: auto;
+    text-align: center;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    
+}
+
+body {
+    background-image: url(https://static8.depositphotos.com/1008191/989/i/600/depositphotos_9897541-stock-photo-pale-blue-background.jpg);
+    background-size: cover;
+}
+
+.divClass {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
