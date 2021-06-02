@@ -47,6 +47,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 #ejercicioCinco {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     flex-direction: row-reverse;
 
 }
