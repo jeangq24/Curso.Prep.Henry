@@ -36,7 +36,7 @@ function conection(status) {
     return "Online";
   } else if (status === 2) {
     return "Away";
-  } else if (status === 3 || status === undefined) {
+  } else if (status === 3  || status === undefined) {
     return "Offline";
   }
 }
