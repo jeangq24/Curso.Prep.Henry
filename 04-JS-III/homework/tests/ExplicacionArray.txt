@@ -1,0 +1,19 @@
+Arrays: Los array son listas donde se puede almacenar datos de
+diferentes tipos como: cadenas de texto o caracteres, 
+numeros (enteros, decimales), booleanos, etc. Los arrays se pueden 
+modificar y tambien podemos recorrerlos para obtener todos, varios o
+un dato de el array o lista por medio de los idices o posiciones
+que nos indica el orden de cada elemento en el array donde "0" nos 
+indica el incio de un elemento hasta el numero de posiciones por
+cada elemento.
+
+ejemplo: 
+           //Esto es un array o una lista donde tenemos 5 elementos
+             o datos de diferente tipo.
+                                              ELEMENTO 1        ELEMENTO 2          ELEMENTO 3     ELEMENTO 4     ELEMENTO 5
+   var ejemplo= [1, "dos", "3", 5.0, true]  // 1(entero),  "dos"(cadena de texto), "3"(caracter), 5.0 (decimal), true(booleano).
+
+ //Posiciones    0    1     2    3     4    // mediante el numero de posicion tenemos la posibilidad de acceder o modificar a uno
+  por cada                                    varios o todos los elementos.                          
+  elemento.	
+             
