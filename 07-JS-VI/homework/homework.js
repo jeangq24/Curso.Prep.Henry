@@ -72,7 +72,6 @@ function filter(array) {
   
   var array2=[]
   for (let index = 0; index < array.length; index++) {
-    console.log(array[index]);
     if (array[index][0]==="a") {
       array2.push(array[index])
       
